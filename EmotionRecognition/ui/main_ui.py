@@ -39,7 +39,7 @@ class EmotionDuaApp(QMainWindow):
         super().__init__()
 
         # App window title (rebranded)
-        self.setWindowTitle("Noor-e-Dua – Light of Supplication")
+        self.setWindowTitle("Noor-e-Dua – Peace in Every Emotion")
         self.setGeometry(80, 80, 1300, 800)
 
         # ================= PATHS & STATE =================
